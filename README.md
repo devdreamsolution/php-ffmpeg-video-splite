@@ -7,7 +7,7 @@ html5-video-splitter is a small utility to split videos in javascript :
 - A web interface to play the video and select the range to extract
 - A Node server to call [FFmpeg](https://www.ffmpeg.org/)
 
-![image](screenshots/screenshot.jpg)
+![image](screenshots/screenshot.png)
 
 ## Supported formats :
 
